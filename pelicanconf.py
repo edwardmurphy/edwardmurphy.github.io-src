@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Edward Murphy'
 SITENAME = u'ad astra per aspera'
 SITEURL = ''
+THEME = "blueidea"
 
 PATH = 'content'
 
