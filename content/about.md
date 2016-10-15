@@ -3,7 +3,7 @@ Date: 2016-10-10 15:30
 Category: About
 
 B.S., Neuroscience (Phi Beta Kappa)
-M.s., Statistics
+M.S., Statistics
 
 Biostatistician, Statistical Programmer, Quality Engineer, Data Analyst, Biochemist with 15 years experience in the biotech industry. 
 
