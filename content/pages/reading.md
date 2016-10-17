@@ -22,4 +22,8 @@ the black shine to the street and kept the limpers indoors. Rain tidied it and g
 youth: the city was designed for grim weather, not crowds." -pg. 37
 
 "Norah said, 'We'll have a good holiday, you'll see.' He hated the word. He didn't want a holiday's brief deception 
-of well-being." -pg. 41
+of well-being...Holidays required skills Mr Gawber did not possess: pounding posts into the sand; humping and 
+unflexing beach-chairs; acting as a waiter - with a clumsy tea-tray - for Norah. He endured it, praying for it to 
+end, wishing the skies to darken and those families to be rained on...The holiday, that rest at Polzeath, had 
+exhausted him, and though Norah still spoke of it with pleasure it had taken two weeks at Rackstraw's [Ed note: his 
+place of employment] for him to regain his former grip on things." -pg. 41
