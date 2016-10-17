@@ -20,11 +20,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-#LINKS = (('NAME','url'))
+#LINKS = (('Flipboard', 'https://flipboard.com/@emurphy711'))
+
 
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/edwardmurphy'),
-          ('LinkedIn', 'https://www.linkedin.com/in/edward-murphy-000b002'),)
+          ('LinkedIn', 'https://www.linkedin.com/in/edward-murphy-000b002'))
 
 DEFAULT_PAGINATION = 10
 
@@ -37,3 +38,6 @@ DEFAULT_PAGINATION = 10
 # Category settings
 USE_FOLDER_AS_CATEGORY = False
 #DEFAULT_CATEGORY = 'Misc'
+
+# Static paths
+STATIC_PATHS = ['images']
