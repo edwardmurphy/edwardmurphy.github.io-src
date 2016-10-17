@@ -21,3 +21,5 @@ He had never wanted to go back, and now he had proved he couldn't." -pg. 35
 the black shine to the street and kept the limpers indoors. Rain tidied it and gave London back some of her glamour, even some of her 
 youth: the city was designed for grim weather, not crowds." -pg. 37
 
+"Norah said, 'We'll have a good holiday, you'll see.' He hated the word. He didn't want a holiday's brief deception 
+of well-being." -pg. 41
