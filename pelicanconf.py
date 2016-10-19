@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Edward Murphy'
 SITENAME = u'ad astra per aspera'
-SITEURL = ''
+SITEURL = 'https://edwardmurphy.github.io'
 THEME = "/home/emurphy/pelican-themes/blueidea"
 
 PATH = 'content'
@@ -40,4 +40,4 @@ USE_FOLDER_AS_CATEGORY = False
 #DEFAULT_CATEGORY = 'Misc'
 
 # Static paths
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'pdfs']
