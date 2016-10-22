@@ -41,3 +41,6 @@ USE_FOLDER_AS_CATEGORY = False
 
 # Static paths
 STATIC_PATHS = ['images', 'pdfs']
+
+# Order articles
+ARTICLE_ORDER_BY = 'date'
