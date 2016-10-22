@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-#LINKS = (('Flipboard', 'https://flipboard.com/@emurphy711'))
+LINKS = (('Flipboard', 'https://flipboard.com/@emurphy711'),)
 
 
 # Social widget
