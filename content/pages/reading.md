@@ -53,7 +53,7 @@ feeling was a smaller one : pity, the feeblest mimicry of love." -pg. 171
 "Outside, Lady Arrow said, 'In my favourite novel there's a lovely scene here in Greenwich - an outing, like this. Do 
 you know Henry James?' 'Never heard of him.' 'That's much better than knowing his name and not reading him.'" -pg. 185
 
-"'The word __people__ is so bald,' said Lady Arrow. '__People__ - that's what politicians say. Who are they, the people?' 'They're, 
+"'The word _people_ is so bald,' said Lady Arrow. '_People_ - that's what politicians say. Who are they, the people?' 'They're, 
 like, mainly the straights, aren't they?' said Brodie. 'It's everyone except the freaks.'" -pg. 190
 
 "Yet it was as if by degrees he was waking to the true size of his family and seeing it as so huge and branched it included his
