@@ -2,7 +2,7 @@ Title: Currently Reading
 Date: 2106-10-16 08:00
 Category: Reading
 
-![The Family Arsenal by Paul Theroux]({filename}/images/theroux.jpg)
+[The Family Arsenal by Paul Theroux]({filename}/images/theroux.jpg)
 
 Some good quotes:
 
@@ -52,3 +52,30 @@ feeling was a smaller one : pity, the feeblest mimicry of love." -pg. 171
 
 "Outside, Lady Arrow said, 'In my favourite novel there's a lovely scene here in Greenwich - an outing, like this. Do 
 you know Henry James?' 'Never heard of him.' 'That's much better than knowing his name and not reading him.'" -pg. 185
+
+"'The word __people__ is so bald,' said Lady Arrow. '__People__ - that's what politicians say. Who are they, the people?' 'They're, 
+like, mainly the straights, aren't they?' said Brodie. 'It's everyone except the freaks.'" -pg. 190
+
+"Yet it was as if by degrees he was waking to the true size of his family and seeing it as so huge and branched it included his
+enemy. To harm any of them was to harm part of himself. A family quarrel : if he cut them he bled." -pg. 197
+
+"Hood said, 'I've always been suspicious of people who rap about their childhood. It's just a cheap way of avoiding blame.'" -pg. 201
+
+"'I know, but it wouldn't bother me if you did. A man sleeps with your wife. It hurts at first - that's pride. But then you realize what 
+he's putting up with and you almost pity the poor bastard.'" -pg. 205
+
+"To live abroad was to create a mythology about yourself, more than a new personality - a liberating fantasy you could believe in, a new
+world." -pg. 217
+
+"He had also feared possession, dependency, complication, blame, any reduction of his freedom, any disturbance to hers. Sex, an expression
+of freedom, made you less free : the penalty of freedom was a reverie of loneliness. To act, he knew, was to involve himself; no act could
+succeed because all involvement was failure; and love, a selfish faith, was the end of all active thought - it was a memory or it was
+nothing." -pg. 251
+
+"'You're a pig,' she said. 'You hate women.' 'I'm liberated,' he said. 'I treat women the same as men.'" -pg. 255
+
+"Hood saw black fingermarks on the breadslice." -pg. 269
+
+"For every one who used the city as an occasion to perform, a thousand chose it as a place of concealment." -pg. 271
+
+
