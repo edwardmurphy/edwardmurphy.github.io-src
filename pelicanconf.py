@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Edward Murphy'
 SITENAME = u'ad astra per aspera'
 SITEURL = 'https://edwardmurphy.github.io'
-THEME = "/home/emurphy/pelican-themes/blueidea"
+THEME = "/home/emurphy/pelican-themes/pelican-sober"
 
 PATH = 'content'
 
