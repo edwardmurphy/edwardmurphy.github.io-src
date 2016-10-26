@@ -1,5 +1,5 @@
-Title: Welcome!
-Date: 2016-10-10 19:30
+Title: Welcome To My Site
+URL:
 save_as: index.html
 
 Hello! Welcome to my website and blog. Check back often for updates. 
