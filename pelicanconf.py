@@ -36,7 +36,8 @@ DEFAULT_PAGINATION = 10
 #MARKUP = ('rst', 'md', 'html')
 
 # Category settings
-USE_FOLDER_AS_CATEGORY = False
+USE_FOLDER_AS_CATEGORY = True
+DISPLAY_CATEGORIES_ON_MENU = True
 #DEFAULT_CATEGORY = 'Misc'
 
 # Static paths
