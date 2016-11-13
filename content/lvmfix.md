@@ -15,8 +15,8 @@ First, here's a snapshot of my current partitioning:
 ![Current Partition]({attach}images/currentpartition.png)
 
 Some things of note:
-1. The first partition is unused and may be completely unnecessary. I use grub as my bootloader, and the files for this are located in the extended partition. I really have no idea right now if this first partition is necessary., Pretty sure Windows uses it, but I don't have Windows installed. I'm thinking this can be removed with no problem.
-2. The swap partition is taking up a primary partition, and this is not necessary. I can move this to a logical partition and save a primary partition if I need it.
+1. The first partition is unused and may be completely unnecessary. I use grub as my bootloader, and the files for this are located in the extended partition. I really have no idea right now if this first partition is necessary. Pretty sure Windows uses it, but I don't have Windows installed. I'm thinking this can be removed with no problem.
+2. The swap partition is taking up a primary partition, and this is not necessary. I can move this to a logical partition and save a primary partition if I need it. Or I can simply use a swap file. 
 3. The linux volume group is spread across multiple partitions. This is not causing any problems (in fact is one of the nice features of logical volumes) but it just looks...not right. 
 4. The final partition (/dev/sda9) used to be unallocated space - this was recommended in the following article (ED ADD REFERENCE) for solid state drives. However, I needed this space to install openSUSE Leap, and did copy to the linux volume group...but look at that I'm actually still booting into this partition! Did not know that. So I have 2 copies of Leap. Sort of unnecessary, yeah? Would like to leave this space unallocated again.
 5. My linux volume group currently includes 2 distros: openSUSE Leap 42.1 (already mentioned) and Linux Mint Sarah. 
@@ -51,6 +51,20 @@ Quick look to see that the expected directories are there to give a little boost
 ```
 \# umount /dev/loop0
 \# losetup -d /dev/loop0
+
+## Wiping SSD
+I followed [this page](https://wiki.archlinux.org/index.php/Solid_State_Drives/Memory_cell_clearing) on Arch-Wiki to wipe my SSD. As disussed on the wiki page, my SSD was frozen, but after suspending the system it became unfrozen and I was able to proceed.
+
+## Repartioning SSD with Parted Magic
+I have a multiboot USB (courtesy of [yumi](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/)) that includes a live version of Parted Magic. Booting into this I was able to use GParted to create the following partitioning scheme:
+1. 20GB unformatted partition
+2. 80GB partition formatted for lvm (linux logical volume manager utility)
+3. 12GB unallocated space at end of drive
+
+## Reinstallation of Distros
+So...this is where things got difficult. The Linux Mint image I created was corrupted somehow, so using **dd** to copy the image to the newly created lvm partition was not possible. I was not yet aware of the **ddrescue** utility, so I put all my effort into copying the openSUSE image first.
+
+Copying the openSUSE image directly to the lvm partition did not work because the initramfs image used at boot did not include capability for logical volumes (through dracut). 
 ```
 
 
