@@ -51,6 +51,7 @@ Quick look to see that the expected directories are there to give a little boost
 ```
 \# umount /dev/loop0
 \# losetup -d /dev/loop0
+```
 
 ## Wiping SSD
 I followed [this page](https://wiki.archlinux.org/index.php/Solid_State_Drives/Memory_cell_clearing) on Arch-Wiki to wipe my SSD. As disussed on the wiki page, my SSD was frozen, but after suspending the system it became unfrozen and I was able to proceed.
