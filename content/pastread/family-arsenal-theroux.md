@@ -1,8 +1,22 @@
-Title: Currently Reading
+Title: The Family Arsenal by Paul Theroux
 Date: 2106-10-16 08:00
-Category: Reading
+Category: Past Reads
 
-[The Family Arsenal by Paul Theroux]({filename}/images/theroux.jpg)
+Status: Complete
+
+Recommend: Yes
+
+Review: Just a good story. Enough suspense to keep me reading, mixed with plenty of amazing quotes (as you can see 
+below) that made me either chuckle or say "daaaaaamn" frequently. The theme is class battle - really how the rich and 
+poor are similar in many respects, on the same side of the battle with the middle class. 
+
+In the end, the players change and the struggle continues with new faces. Reflects my philosophy when arguing against uniqueness or 
+superlatives of current events. I find it more likely that what we think is unique or maximally great/awful can 
+usually be seen as a continuation of a trend through centuries, perhaps just with different technology. At our core, 
+we today are the same as humans were a thousand years ago, just with different distractions. We are not witnessing the 
+most divisive this, or a completely unexpected that; it's all been done before. Not to say that i) we can't learn or 
+change from the past, or ii) enjoy the hell out of the experience nonetheless (instead of passively accepting the 
+inevitable), but let's cut the extreme talk. 
 
 Some good quotes:
 

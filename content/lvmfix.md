@@ -66,7 +66,6 @@ I have a multiboot USB (courtesy of [yumi](https://www.pendrivelinux.com/yumi-mu
 So...this is where things got difficult. The Linux Mint image I created was corrupted somehow, so using **dd** to copy the image to the newly created lvm partition was not possible. I was not yet aware of the **ddrescue** utility, so I put all my effort into copying the openSUSE image first.
 
 Copying the openSUSE image directly to the lvm partition did not work because the initramfs image used at boot did not include capability for logical volumes (through dracut). 
-```
 
 
 
