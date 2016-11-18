@@ -15,7 +15,16 @@ Born and raised in Delaware County, PA (adjacent to Philadelphia), with a few ye
 fully developed. Moved slightly west for college at the University of Pittsburgh. Moved further west after graduation to the city I now 
 call home - San Diego, CA. Local status achieved.
 
-Father of an amazing son who has taught me to keep growing. 
+Played lacrosse in high school and college. In my junior year of college we played for the national championship in 
+collegiate club level lacrosse. We lost to Penn State. I scored a goal in a national championship game, says my inner 
+Al Bundy. 
+
+Father of an amazing son who has taught me to keep growing. I do have a guardian angel - her Earth name is Sarah.
 
 Hobbies include bodysurfing, reading, computer networking and software, computer programming, math anything, playing 
 dominoes, and dancing. Rocking a beard and a chain on my wallet since before the hipsters.  
+
+No longer a big sports fan, but I am in love with Kawhi Leonard and not afraid to say it. Complete package of work 
+ethic, drive, and humility. It was an honor to watch him play in college. 
+
+Whatchamacallit is my go-to candy bar. 
