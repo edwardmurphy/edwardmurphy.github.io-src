@@ -65,7 +65,30 @@ I have a multiboot USB (courtesy of [yumi](https://www.pendrivelinux.com/yumi-mu
 ## Reinstallation of Distros
 So...this is where things got difficult. The Linux Mint image I created was corrupted somehow, so using **dd** to copy the image to the newly created lvm partition was not possible. I was not yet aware of the **ddrescue** utility, so I put all my effort into copying the openSUSE image first.
 
-Copying the openSUSE image directly to the lvm partition did not work because the initramfs image used at boot did not include capability for logical volumes (through dracut). 
+Copying the openSUSE image directly to the lvm partition did not work because the initramfs image used at boot did not include capability for logical volumes (through dracut). Thus, at boot the logical volume devices in /dev/mapper/ were not available for mounting. Because of this, I first had to copy the image to a primary partition (/dev/sda1). The file system on the first partition needed to be created first:
+'''
+# mkfs.ext4 /dev/sda1
+# dd if=/path/to/image.img of=/dev/sda1 bs=4M
+'''
+
+Now, another issue comes into play. **dd** is a direct copy of the old distro, so the UUIDs are copied into the new partition (which was given a different UUID at creation). I don't even begin to understand it at a deeper level than what I just stated. Needless to say, it causes major issues at boot since the root partition cannot be found due to mismatch of UUID. This assumes mount points are referenced by UUID. I suppose using labels would have prevented this, but frankly I don't know. In any event, what I needed to do was give the partition a new UUID after copying the image then update /etc/fstab with the new UUID for the root partition. 
+'''
+# tune2fs -U random /dev/sda1
+# blkid | grep -e '/dev/sda1' >> /etc/fstab
+'''
+
+Then I opened /etc/fstab and cleaned it up to look like:
+'''
+UUID=uuid	/	ext4	defaults	0	1
+'''
+
+Finally, grub bootloader needs to be installed on the disk and the configuration updated:
+'''
+# grub-install /dev/sda
+# grub-mkconfig -o /boot/grub/grub.cfg
+'''
+
+Reboot and openSUSE boots! Easy as...pause not. 
 
 
 
