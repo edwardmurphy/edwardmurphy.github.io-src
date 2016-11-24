@@ -65,7 +65,8 @@ I have a multiboot USB (courtesy of [yumi](https://www.pendrivelinux.com/yumi-mu
 ## Reinstallation of Distros
 So...this is where things got difficult. The Linux Mint image I created was corrupted somehow, so using **dd** to copy the image to the newly created lvm partition was not possible. I was not yet aware of the **ddrescue** utility, so I put all my effort into copying the openSUSE image first.
 
-Copying the openSUSE image directly to the lvm partition did not work because the initramfs image used at boot did not include capability for logical volumes (through dracut). Thus, at boot the logical volume devices in /dev/mapper/ were not available for mounting. Because of this, I first had to copy the image to a primary partition (/dev/sda1). The file system on the first partition needed to be created first:
+### openSUSE on Primary Partition
+Copying the openSUSE image directly to the lvm partition did not work because the initramfs image used at boot did not include capability for logical volumes (through dracut). Thus, at boot the logical volume devices in /dev/mapper/ were not available for mounting. Because of this, I first had to copy the image to a primary partition (/dev/sda1). The file system on the first partition needed to be created first. This can be accomplished in Parted Magic.
 ```
 # mkfs.ext4 /dev/sda1
 # dd if=/path/to/image.img of=/dev/sda1 bs=4M
@@ -82,13 +83,73 @@ Then I opened /etc/fstab and cleaned it up to look like:
 UUID=uuid	/	ext4	defaults	0	1
 '''
 
-Finally, grub bootloader needs to be installed on the disk and the configuration updated:
+Next, the initial ram disk (initrd in SUSE) needs to be updated. This requires chrooting into the SUSE file system; however I was not able to do this in Parted Magic. So I booted into a live version of Arch Linux. Arch is suuuuuuper handy for chrooting because it becomes with a utility **arch-chroot** which automatically mounts /proc, /dev, and /sys. After booting into Arch and mounting /dev/sda1 at /mnt, I ran the following commands:
 ```
-# grub-install /dev/sda
-# grub-mkconfig -o /boot/grub/grub.cfg
+# arch-chroot /mnt
+# mkinitrd
 ```
 
-Reboot and openSUSE boots! Easy as...pause not. 
+Quick note on **mkinitrd**. This command uses the utility **dracut** to create the initial ram disk. So why not run dracut? Because it didn't always work for me, especially later when copying the distro to a logical volume. It's likely I'm missing a few simply options, so not a big headscratcher. But **mkinitrd** worked, so I stuck with it. 
+
+Finally, grub bootloader needs to be installed on the disk and the configuration updated. I had to add /usr/bin and /usr/sbin to the PATH environment variable before installing grub.
+```
+# grub2-install /dev/sda
+# grub2-mkconfig -o /boot/grub/grub.cfg
+```
+
+Reboot and openSUSE boots! Easy as...pause not.
+
+### Linux Mint in Logical Volume
+From our fresh install of openSUSE, create a volume group in our lvm physical volume (/dev/sda2) and create some space for Linux Mint:
+```
+# vgcreate linux /dev/sda2
+# lvcreate -L 30G -n mint linux
+# mkfs.ext4 /dev/mapper/linux-mint
+```
+
+Since the mint image was corrupted, I used **ddrescue** to copy the image to the new logical volume. It turned out that single file was corrupted (total size was 4096K), but **ddrescue** had no problem doing its thing:
+```
+# ddrescue --force /path/to/image.img /dev/mapper/linux-mint
+```
+
+Next, created a new UUID for the mint logical volume as was done above for openSUSE, then mount the logical volume for chrooting. This time, I had to mount /proc, /dev/, and /sys myself. Assuming the mint logical volume is mounted at /mnt, run the following in order to update the initial ram disk (initramfs in Mint):
+```
+$ cd /mnt
+# mount -t proc /proc proc/
+# mount --rbind /dev dev/
+# mount --rbind /sys sys/
+# chroot /mnt
+# update-initramfs -u
+'''
+
+Update /etc/fstab as above, exit chroot, and update the bootloader:
+```
+# grub2-mkconfig -o /boot/grub/grub.cfg
+```
+
+Reboot and Mint is available from the grub menu.
+
+### openSUSE in Logical Volume
+In order to free up the first partition and have all distros in logical volumes, the openSUSE installation on /dev/sda2 needs to be copied to a new logical volume. Boot in Mint, and perform the following:
+1. Create a new logical volume *suse* with ext4 filesystem
+2. Use **dd** to copy from /dev/sda1 to the new logical volume
+3. Create new UUID 
+4. Chroot into new *suse* logical volume
+5. Update initrd
+6. Update /etc/fstab
+7. Exit chroot
+8. Delete openSUSE installation on /dev/sda1
+9. Install grub2 and configure from Mint
+
+Fiiiiiiiiiinally. Done.
+
+## What I Learned
+1. Perhaps a program like Clonezilla is better in this situation. I have used it previously, and frankly I don't recall having to update UUIDs. My memory could be wrong though. I do remember that it's a pain to copy a Clonezilla image to a different partition. Well, pain is stretching it. One of the files in the Clonezilla folder for the image needs to be updated with the new partition. 
+2. This whole updating initial ram disks was fun. I have to keep this in mind as a first level troubleshooting technique, right behind...
+3. Can't tell you how many times I've had issues booting into a distro, and the solution being **UPDATE /etc/fstab**! This has almost become second nature to me now, to check this when I can't boot into a distro. 
+4. One of the "joys" of working with different distros is figuring out how to do the same exact thing with different (unique) commands, e.g. **mkinitrd** vs. **update-initramfs**. I say joy now, but sometimes I wonder why the hell I'm diluting my knowledge. It rather confuses me sometimes. Perhaps I'd be better off REALLY knowing how to update initial ram disks in Debian, for example, and to hell with the rest. Hmmmm...nah. I like tinkering too much. But it does mean I have to relearn quite a bit. 
+5. The most important thing I did?? I WROTE THIS ALL DOWN! Seriously, I've performed these steps more than once, and as I just mentioned, I had to start from scratch each time I did this. I'm really happy I have a blog that no one will likely read. At least as far as this. If you have...wow, I'm grateful you have. Truly.
+
 
 
 
