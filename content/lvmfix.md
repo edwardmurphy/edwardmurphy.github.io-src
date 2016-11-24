@@ -120,7 +120,7 @@ $ cd /mnt
 # mount --rbind /sys sys/
 # chroot /mnt
 # update-initramfs -u
-'''
+```
 
 Update /etc/fstab as above, exit chroot, and update the bootloader:
 ```
