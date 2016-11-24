@@ -141,7 +141,10 @@ In order to free up the first partition and have all distros in logical volumes,
 8. Delete openSUSE installation on /dev/sda1
 9. Install grub2 and configure from Mint
 
-Fiiiiiiiiiinally. Done.
+Fiiiiiiiiiinally. Done. Here's how my disk is partitioned now, with both openSUSE Leap 42.1 and Linux Mint 18 copied 
+to the new partition:
+
+![New Partition]({attach}images/newpartition.png)
 
 ## What I Learned
 1. Perhaps a program like Clonezilla is better in this situation. I have used it previously, and frankly I don't recall having to update UUIDs. My memory could be wrong though. I do remember that it's a pain to copy a Clonezilla image to a different partition. Well, pain is stretching it. One of the files in the Clonezilla folder for the image needs to be updated with the new partition. 
