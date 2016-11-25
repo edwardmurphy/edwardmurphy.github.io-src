@@ -1,6 +1,5 @@
 Title: Why I Chose Pelican 
 Date: 2016-10-19
-Category: Nerdy Stuff
 Tags: pelican, python
 
 In this post I'd like to give some background about my choice of Pelican as the site generator for my website. 

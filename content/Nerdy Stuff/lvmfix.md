@@ -1,6 +1,5 @@
 Title: Fixing My Logical Volumes
 Date: 2016-11-04
-Category: Nerdy Stuff
 Tags: logical volumes, linux
 
 I use [logical volumes](https://wiki.archlinux.org/index.php/LVM) on my Acer notebook. My current understanding of logical volumes is that they are most often utilized when disk space is combined across multiple physical volumes, i.e. disks. I have a single SSD in my notebook, so why use logical volumes? Because I like to tinker with Linux distributions. I'm frequently installing new distros, resizing the space for each distro, adding shared space, uninstalling distros...tinkering. All of this is possible with a normal disk partitioning setup, but I found it to be cumbersome. After awhile unallocated partitions were squeezed between distros. Or I couldn't resize a partition easily since the next partition was not free. Sure, I could copy partitions to another disk, resize locally, then copy the saved partition. Or...I could use a tool that allows resizing on the fly. And is not "typical." Hence, my choice of logical volumes. 

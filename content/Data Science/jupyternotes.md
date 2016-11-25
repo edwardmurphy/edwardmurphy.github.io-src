@@ -1,6 +1,5 @@
 Title: Self Intro to Jupyter Notebooks
 Date: 2016-11-26
-Category: Data Science
 Tags: jupyter
 
 The purpose of this post is to collect my progress on learning how to use [Jupyter](http://jupyter.org) notebooks. 

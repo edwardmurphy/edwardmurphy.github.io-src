@@ -1,7 +1,6 @@
 Title: R --> Python
 Date: 2016-10-25
 Modified: 2016-11-26
-Category: Data Science
 Tags: r, python
 
 One of my current hobbies (long since "in the works" but really just "in the brain") is collecting and refactoring all 
