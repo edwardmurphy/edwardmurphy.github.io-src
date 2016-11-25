@@ -1,4 +1,4 @@
-Title: Welcome To My Website and Blog
+Title: Welcome!
 URL:
 save_as: index.html
 Category: Home

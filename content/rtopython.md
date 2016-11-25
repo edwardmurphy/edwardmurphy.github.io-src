@@ -1,6 +1,6 @@
 Title: R --> Python
 Date: 2016-10-25
-Category: Articles
+Category: Nerdy Stuff
 Tags: r, python
 
 One of my current hobbies (long since "in the works" but really just "in the brain") is collecting and refactoring all 
