@@ -17,4 +17,20 @@ embedded in Jupyter notebooks, but if it can then perhaps I can save a step.
 Thanks for reading.
 -Edward
 
-UPDATE: Yep, R can be run in Jupyter. Fun.
+UPDATE: Yep, R can be run in Jupyter. Fun. There are at least 2 ways to run R in Jupyter:
+
+1. Run R "natively" using the R Kernal in Jupyter
+2. Run R using the Python kernel
+
+Because I want to combine R and Python code (well, at least I think I do, since I'll be running both), I'll go with option 2 for now. To do this, the *rpy2* package needs to be installed. I had all sorts of compilation issues using *pip* to install this, so I installed using the package manager (zypper in SUSE).
+
+Once installed, [open up a Jupyter notebook]({filename}jupyternotes.md) and run:
+```
+%load_ext rpy2.ipython
+```
+
+That's it! R code can then be run using the R-magic command.
+```
+%R a=c(0,1)
+%R a
+``` 
