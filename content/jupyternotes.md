@@ -16,4 +16,4 @@ print("Hello World")
 ```
 
 The notebook can then be saved as an html file. Here's the output:
-[Hello World](./jupyter-html/HelloWorld.html)
+[Hello World]({attach}/jupyter-html/HelloWorld.html)
