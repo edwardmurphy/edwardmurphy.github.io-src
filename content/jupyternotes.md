@@ -16,4 +16,4 @@ print("Hello World")
 ```
 
 The notebook can then be saved as an html file. Here's the output:
-[Hello World]({filename}/notebooks/HelloWorld.md)
+[Hello World]({attach}/notebooks/HelloWorld.md)
