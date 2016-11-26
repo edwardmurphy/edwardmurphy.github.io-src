@@ -1,6 +1,6 @@
 Title: Way of the Peaceful Warror by Dan Millman
 Date: 2016-11-09
-Category: Past Reads
+Category: Book Reviews
 Tags: books
 
 Status: Stopped at page 50
