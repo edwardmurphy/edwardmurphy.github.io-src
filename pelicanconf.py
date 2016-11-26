@@ -45,3 +45,6 @@ STATIC_PATHS = ['images', 'pdfs']
 
 # Order articles
 ARTICLE_ORDER_BY = 'date'
+
+# Default date
+DEFAULT_DATE = 'fs'
