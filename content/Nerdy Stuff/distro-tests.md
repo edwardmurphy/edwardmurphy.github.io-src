@@ -47,7 +47,12 @@ from myself?)
 really know how to configure the system in /etc for most settings, so leave me alone but come here...that's a totally 
 reasonable attitude, right?
 - Overall speed. Plasma 5 just simply DOES NOT WORK (except in CentOS, I've found). openSUSE seems to be faster than 
-Linux Mint. Stuff like this. 
+Linux Mint. Stuff like this.
+- Does Samba configuration work out of the gate? Usually not. I spent WAYYYYYY more time on Samba than I really needed 
+to, getting sucked down that rabbit hole on far too many occasions. Yet I can't let it go. 
+
+I'll follow-up with an article about development setups I'd like to evaluate/try/learn (e.g. Anaconda, Docker), and 
+with those considerations plus these I can map out a factorial evaluation for multiple distros. 
 
  
 
