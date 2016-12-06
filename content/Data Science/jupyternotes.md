@@ -14,5 +14,4 @@ This will open in the localhost within the directory from which the command was 
 print("Hello World")
 ```
 
-The notebook can then be saved as an html file. Here's the output:
-[Hello World]({filename}/notebooks/HelloWorld.md)
+The notebook can be saved as an html file. See my GitHub page.
