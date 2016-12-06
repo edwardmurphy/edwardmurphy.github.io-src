@@ -7,7 +7,7 @@ Status: Completed (723 pages)
 Recommend: Conditionally Yes
 
 Review: I'm a sucker for historical fictions. While the main story arc certainly takes place contemporaneously, with 
-heavy references to Columbine, the Iraq War, and Hurrican Katrina, this story of familial lineage (and what our 
+heavy references to Columbine, the Iraq War, and Hurricane Katrina, this story of familial lineage (and what our 
 ancestors whom we've never met can still mean to us) takes us through major events of the 19th century. The author 
 uses fictional letters written by a teenage girl following a dinner at Mark Twain's house, as well as a scholarly 
 dissertation that outlines the life of the girl's Quaker abolitionist grandmother. I got really hooked into the 
@@ -19,7 +19,7 @@ the way through to the end of the book.
 As for the main story arc...perhaps borders on too much drama for me, as in "like this much could REALLY happen to 
 someone." But, I have to admit, given the ancestor drama unearthed it's not all that surprising that so much happens 
 to our protagonist. I recently drove to Big Sur with an older gentleman who regaled me with stories of his life, and 
-his father's, and step-father's, and grandparents...the amazement didn't seem to end with each generation. And I 
+his father's, and stepfather's, and grandparents'...the amazement didn't seem to end with each generation. And I 
 remember remarking that I've noticed how some families just seem to be involved, while others ply along in life 
 without seeming to make an impact. But I don't want to disparage the latter sorts of families. I think amazing stories 
 could be told in all generations. It just takes a good story teller. And in the end, that's what the author 
