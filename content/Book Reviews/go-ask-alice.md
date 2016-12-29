@@ -6,9 +6,9 @@ Status: Completed (188 pages)
 
 Recommend: Yes
 
-Review: A supposed diary of a teenage girl who gets introduced to LSD and whose life very quickly spirals downhill. I 
-was enchanted - I never even stopped to jot down the good quotes even though there were many. I was planning to 
-re-read the book since I enjoyed it so much, but I did a wiki search and discovered that the purported 
+Review: A supposed diary of a teenage girl in the 1960s who gets introduced to LSD and uppers and whose life very 
+quickly spirals tragically downhill during the free love era. I was enchanted - I never even stopped to jot down the 
+good quotes even though there were many. I was planning to re-read the book since I enjoyed it so much, but I did a wiki search and discovered that the purported 
 diarist was likely not real and that the whole premise ("A Real Diary") is likely a sham. As I mentioned in a previous 
 review, I can't stand being taken like that. It's likely I won't read the book again, but I'm glad I read it once. 
 Especially at this point in my life.
@@ -26,7 +26,7 @@ followed by the late stage escape impossibilities. How quickly this shift can oc
 without even realizing that it's being chosen and why. The feeling of control when it's most elusive and temporary. 
 The undying love of family who waits while the adventures need to be taken to their end. 
 
-And the most important entries: those where the diarist remarks "if only I had someone to tell this too" or "I know I 
+And the most important entries: those where the diarist remarks "if only I had someone to tell this to" or "I know I 
 should tell Mom about this, I really want to." The razor's edge of getting help - wanting it, knowing it's right 
 there, knowing exactly what you have to do to get it, knowing it takes only a SINGLE WORD for everything to get right 
 again - A SINGLE WORD - and being completely unable to say a single word. The entire body poised to speak, yet some 
