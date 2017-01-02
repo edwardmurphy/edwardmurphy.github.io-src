@@ -6,6 +6,7 @@ Tags: sql; R
 
 1. *Beginning SQL Server R Services,* Bradley Beard
 
+
 ## Introduction and Motivation
 
 I suppose it's a New Year's resolution of sorts (gasp!), but bear with me. There are so many applications and 
@@ -26,10 +27,7 @@ We'll be using Visual Studio as the R IDE, so this month's project is mostly Win
 Server is now available in some Linux distributions, and I've already leaped ahead a bit and installed it in a virtual 
 machine running CentOS. We'll get to this later though.
 
-I'll be walking through ***Beginning SQL Server R Services*** by Bradley Beard as my main text. This has served me well to 
-date with installation of SQL Server 2016 and the component R tools. The purpose of this post will be to document my 
-progress (so I can keep the analytical part of my brain appeased) and maintain notes of sort that I may refer to in 
-later months when I've moved on to other projects.  
+The purpose of this post will be to document my progress (so I can keep the analytical part of my brain appeased) and maintain notes of sort that I may refer to in later months when I've moved on to other projects.
 
 ## Terms
 
@@ -38,9 +36,9 @@ installation.
 
 1. SQL Server: For our purposes, this refers to the relational database server from Microsoft. The installation documented in this post is the 2016 Developer Version of Microsoft SQL Server. The Developer Version is a free version of the enterprise-level server without the license for production use. Since I've no production or profit motivations at this point, I'm quite secure in meeting that requirement. Just to be complete, let's also define:
 
-a. SQL (Structured Query Language): Check out the [wiki](https://en.wikipedia.org/wiki/SQL). Quick, quick version it's a language used in conjunction with relational databases, i.e. those structured according to the [relational model](https://en.wikipedia.org/wiki/Relational_model).
+	a. SQL (Structured Query Language): Check out the [wiki](https://en.wikipedia.org/wiki/SQL). Quick, quick version it's a language used in conjunction with relational databases, i.e. those structured according to the [relational model](https://en.wikipedia.org/wiki/Relational_model).
 
-b. Server: Check out the wiki page for [database server](https://en.wikipedia.org/wiki/Database_server).
+	b. Server: Check out the wiki page for [database server](https://en.wikipedia.org/wiki/Database_server).
 
 2. R Server: Microsoft's enterprise level R platform. This is based on the CRAN R distribution, but adds high level capabilities for processing of big data in multiple environments. It's provided as **R Services** in SQL Server 2016 Developer edition. 
 
