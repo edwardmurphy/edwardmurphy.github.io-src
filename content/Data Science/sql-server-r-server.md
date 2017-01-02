@@ -2,6 +2,10 @@ Title: Microsoft SQL Server with R Server
 Date: 2017-01-01
 Tags: sql; R
 
+## References
+
+1. *Beginning SQL Server R Services,* Bradley Beard
+
 ## Introduction and Motivation
 
 I suppose it's a New Year's resolution of sorts (gasp!), but bear with me. There are so many applications and 
@@ -22,7 +26,7 @@ We'll be using Visual Studio as the R IDE, so this month's project is mostly Win
 Server is now available in some Linux distributions, and I've already leaped ahead a bit and installed it in a virtual 
 machine running CentOS. We'll get to this later though.
 
-I'll be walking through *Beginning SQL Server R Services* by Bradley Beard as my main text. This has served me well to 
+I'll be walking through ***Beginning SQL Server R Services*** by Bradley Beard as my main text. This has served me well to 
 date with installation of SQL Server 2016 and the component R tools. The purpose of this post will be to document my 
 progress (so I can keep the analytical part of my brain appeased) and maintain notes of sort that I may refer to in 
 later months when I've moved on to other projects.  
@@ -45,3 +49,13 @@ b. Server: Check out the wiki page for [database server](https://en.wikipedia.or
 4. R Tools for Visual Studio (RTVS): Turns Visual Studio into an IDE for R. Uses R Open to interpret code developed in Visual Studio.
 
 5. SQL Server Management Studio (SSMS): The GUI for managing servers.
+
+## Installation
+
+I followed the installation directions in reference 1 to install Microsoft SQL Server 2016 Developer edition with R Services, SQL Server Management Studio, Visual Studio 2015, Microsoft R Open, and R Tools for Visual Studio. I also downloaded and unzipped the examples from the [RVTS-docs  Github repo](https://github.com/microsoft/RTVS-docs). 
+
+What's next? Well my tendency is to want to run with the R Tools examples, and oh yeah try out the Python Tools too, and ... do things that don't include SQL Server. My first test of sticking to my goals. The data science applications will follow, but let's stay on SQL Server topics. 
+
+## SQL Server Databases and Admin
+
+So we have a software product that can create and manage databases. Do I know how to create databases? Do I know how to access these databases? Do I know how to administer these databases among users? Do I know how to remotely access these databases? Nope! So I think it's time to find another reference to walk through these capabilities. 
