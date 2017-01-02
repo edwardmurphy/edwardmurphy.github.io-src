@@ -1,5 +1,5 @@
 Title: The Family Arsenal by Paul Theroux
-Date: 2016-10-16 08:00
+Date: 2016-10-16
 Tags: books
 
 Status: Complete
