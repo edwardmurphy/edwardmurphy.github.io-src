@@ -32,4 +32,16 @@ later months when I've moved on to other projects.
 In this section I'll keep a running list of terms to define, mostly the different components of my SQL Server 
 installation. 
 
-1. SQL Server: 
+1. SQL Server: For our purposes, this refers to the relational database server from Microsoft. The installation documented in this post is the 2016 Developer Version of Microsoft SQL Server. The Developer Version is a free version of the enterprise-level server without the license for production use. Since I've no production or profit motivations at this point, I'm quite secure in meeting that requirement. Just to be complete, let's also define:
+
+a. SQL (Structured Query Language): Check out the [wiki](https://en.wikipedia.org/wiki/SQL). Quick, quick version it's a language used in conjunction with relational databases, i.e. those structured according to the [relational model](https://en.wikipedia.org/wiki/Relational_model).
+
+b. Server: Check out the wiki page for [database server](https://en.wikipedia.org/wiki/Database_server).
+
+2. R Server: Microsoft's enterprise level R platform. This is based on the CRAN R distribution, but adds high level capabilities for processing of big data in multiple environments. It's provided as **R Services** in SQL Server 2016 Developer edition. 
+
+3. R Open: Looks and feels like normal R (including the RGui), but Microsoft has added additional packages for this distribution.
+
+4. R Tools for Visual Studio (RTVS): Turns Visual Studio into an IDE for R. Uses R Open to interpret code developed in Visual Studio.
+
+5. SQL Server Management Studio (SSMS): The GUI for managing servers.
