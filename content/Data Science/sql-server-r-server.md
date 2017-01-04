@@ -1,16 +1,17 @@
 Title: Microsoft SQL Server with R Server
 Date: 2017-01-01
-Tags: sql; R
+Tags: sql; R; visual studio
 
 ## References
 
 1. *Beginning SQL Server R Services,* Bradley Beard
+2. *Beginning SQL Server for Developers,* Robin Dewson
 
 
 ## Introduction and Motivation
 
 I suppose it's a New Year's resolution of sorts (gasp!), but bear with me. There are so many applications and 
-languages and tools and such that I want to learn that I can easily let myself bounce from project to project. This is 
+languages and tools and such that I want to learn that I can easily let myself bounce from project to project. This is 			
 an intellectual curiosity that I've had my entire life, and I'm proud to have it. However, it has sometimes left me 
 feeling incomplete with my knowledge - the feeling that I didn't spend enough time on a single task. Perhaps because 
 my curiosity doesn't come with goals. It's satisfied just being curious, while the analytical part of my mind jumps up 
