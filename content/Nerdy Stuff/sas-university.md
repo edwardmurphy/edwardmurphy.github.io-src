@@ -8,7 +8,7 @@ that SAS offers a free University Edition of its software...which uses Oracle Vi
 virtualization software. AND to top it off it comes with a kernel for Jupyter notebooks. My goodness. Still Christmas 
 for me apparently.
 
-Installation was cake. [Download] (http://www.sas.com/en_us/software/university-edition.html) the appliance, import 
+Installation was cake. [Download](http://www.sas.com/en_us/software/university-edition.html) the appliance, import 
 it into VirtualBox, and open the web application in a browser on your host machine. Boom, you have SAS. Running 
 virtually.
 
