@@ -39,55 +39,59 @@ more of a hindrance to healing than a help. Trauma is real. Compassion is the an
 
 Some good quotes:
 
-"Hated facing up to the fact that, whether she'd been unfaithful to me or not, if Maureen had gotten killed that icy 
+Hated facing up to the fact that, whether she'd been unfaithful to me or not, if Maureen had gotten killed that icy 
 night when she totaled her Toyota, it would have been my fault because she'd left out of fear. If I'd bashed in Hay's 
 skull with that pipe wrench, his death would have been on me. I *was* in the abusers' group, not the group for the 
 abused; that's what I learned. My childhood grudges, my righteous indignation, and my master's degree didn't count for 
 squat. My Phi Beta Kappa key unlocked nothing. I was my failings and my actions, period. Like I said, it was a 
-humbling experience." -pg. 14
+humbling experience. (pg. 14)
 
-"En route, I passed billboards luring travelers to Wequonnoc Moon, the U.S. Army, the home cooking at Cracker Barrel, 
+En route, I passed billboards luring travelers to Wequonnoc Moon, the U.S. Army, the home cooking at Cracker Barrel, 
 Jesus Christ. Weird how they all promised the same thing: rescue. Salvation from your dissatisfying life. "Begin the 
 Quest!" one of the signs advised, but I didn't quite catch the quest for what. Smart advertising, whatever it was. A 
-personal lord and savior, a casino jackpot, a Phoenician Yellow Mustang: everyone was out looking for something. 
-*Right you are, Quirk. And what, pray tell, are you looking for?"* Me? I don't know. To avoid the Love Bug virus, 
-maybe? *Not something you're looking to escape, Quirk. Something you're looking* for. A little peace of mind, maybe? A 
-full night's sleep?...Yeah, that'd be nice: eight uninterrupted hours of repose. *Don't play dead before you have 
-to.*" -pg. 75
+personal lord and savior, a casino jackpot, a Phoenician Yellow Mustang: everyone was out looking for something.  
+"Right you are, Quirk. And what, pray tell, are you looking for?"  
+Me? I don't know. To avoid the Love Bug virus, 
+maybe?  
+"Not something you're looking to escape, Quirk. Something you're looking for."  
+A little peace of mind, maybe? A 
+full night's sleep?...Yeah, that'd be nice: eight uninterrupted hours of repose.  
+"Don't play dead before you have 
+to." (pg. 75)
 
-"Her crucifix lay against the bare uncovered mattress. I picked it up, kissed Jesus' feet, and hung it back on the 
+Her crucifix lay against the bare uncovered mattress. I picked it up, kissed Jesus' feet, and hung it back on the 
 wall. I made the gesture for her, not for her god or for myself. I was a twice-divorced thirty-year-old, teaching 
 Twain and Thoreau to indifferent high school students by day and, by night, going home to my life of quiet desperation 
 and one or two too many Michelobs. I'd long since become skeptical about an allegedly merciful God who doled out 
-cosmic justice according to some mysterious game plan that none of us could fathom." -pg. 154
+cosmic justice according to some mysterious game plan that none of us could fathom. (pg. 154)
 
-"Dr. P read from a blood-red leather book. *'My soul was a burden, bruised and bleeding. It was tired of the man who 
+My soul was a burden, bruised and bleeding. It was tired of the man who 
 carried it, but I found no place to set it down to rest. Neither the charm of the countryside nor the sweet scents of 
 a garden could soothe it. It found no peace in song or laughter, none in the company of friends at table or in the 
 pleasures of love, none even in books or poetry.... Where could my heart find refuge from itself? Where could I go, 
-yet leave myself behind?'*" -pg. 319
+yet leave myself behind? (pg. 319)
 
-"The majority of the nineteen- and twenty-year-olds are so goddamned passive. Don't want to come up with any of their 
+The majority of the nineteen- and twenty-year-olds are so goddamned passive. Don't want to come up with any of their 
 *own* opinions about what they read; they just want to copy down *your* opinions and give them back to you on the 
-test. Not those older students, though. They can be fierce." -pg. 373
+test. Not those older students, though. They can be fierce. (pg. 373)
 
-"You want to know what powerlessness is? It's when you have to promise your imprisoned wife that you're not going to 
-do anything about a psychpath who's terrorizing her." -pg. 377
+You want to know what powerlessness is? It's when you have to promise your imprisoned wife that you're not going to 
+do anything about a psychpath who's terrorizing her. (pg. 377)
 
-"The labyrinth is simultaneously inextricable and impenetrable. Those inside cannot get out and those outside cannot 
-get in." -pg. 385
+The labyrinth is simultaneously inextricable and impenetrable. Those inside cannot get out and those outside cannot 
+get in. (pg. 385)
 
-Chapter 19, fictional letter from 1886 pg. 395
+Chapter 19, fictional letter from 1886 (pg. 395)
 
-"And those papers they'd written -- not just the poignant ones, but all of them, even the one by the fleet-footed 
+And those papers they'd written -- not just the poignant ones, but all of them, even the one by the fleet-footed 
 Hermes with his pepperoni pizzas. It reminded me that they were more than just their scholarly shortcomings and gripes 
-about the workload. Each had a history, a set of problems. Each, for better or worse, was anchored to a family. -pg. 
-472
+about the workload. Each had a history, a set of problems. Each, for better or worse, was anchored to a family. (pg. 
+472)
 
-"Yeah? That right? Well, let me give you a little piece of advice, Mr. I Have My Doubts. Next time you're in a bad way 
+Yeah? That right? Well, let me give you a little piece of advice, Mr. I Have My Doubts. Next time you're in a bad way 
 and you're asking this god you have your doubts about to help you, just remember that the question you gotta ask isn't 
 Why? or If? The question is How? You got that? Not *why*. Not *if*. *How*. You wanna write that down? Oh, that's 
-right. You got me on tape." -pg. 519
+right. You got me on tape. (pg. 519)
 
-"That's the funny thing about mazes: what's baffling on the ground begins to make sense when you can begin to rise 
-above it, the better to understand your history and fix yourself." -pg. 717 															
+That's the funny thing about mazes: what's baffling on the ground begins to make sense when you can begin to rise 
+above it, the better to understand your history and fix yourself. (pg. 717) 

@@ -2,8 +2,7 @@ Title: About
 Date: 2016-10-10 15:30
 Category: About
 
-B.S., Neuroscience (Phi Beta Kappa) from the University of Pittsburgh. 
-
+B.S., Neuroscience (Phi Beta Kappa) from the University of Pittsburgh.  
 M.S., Statistics from San Diego State University.
 
 Completed all the course work for a Ph.D. in Computational Science from Claremont Graduate University and San Diego 

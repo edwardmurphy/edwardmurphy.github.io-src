@@ -16,17 +16,17 @@ a fool.
 
 Some good quotes:
 
-"Use whatever knowledge you have but see its limitations. Knowledge alone does not suffice; it has no heart. No amount 
+Use whatever knowledge you have but see its limitations. Knowledge alone does not suffice; it has no heart. No amount 
 of knowledge will nourish or sustain your spirit; it can never bring you ultimate happiness or peace. Life requires 
 more than knowledge; it requires intense feeling and constant energy. Life demands *right action* if knowledge is to 
-come alive." -pg. 19
+come alive. (pg. 19)
 
-"The warrior acts...and the fool only reacts." -pg. 20
+The warrior acts...and the fool only reacts. (pg. 20)
 
-"When you become fully responsible for your life, you can become fully human; once you become human, you may discover 
-what it means to be a warrior." -pgs. 28-29
+When you become fully responsible for your life, you can become fully human; once you become human, you may discover 
+what it means to be a warrior. (pg. 28)
 
-"The world was peopled with minds, whirling faster than any wind, in search of distraction and escape from the 
+The world was peopled with minds, whirling faster than any wind, in search of distraction and escape from the 
 predicament of change, the dilemma of life and death - seeking purpose, security, enjoyment, trying to make sense of 
 the mystery. Everyone everywhere lived a confused, bitter search. Reality never matched their dreams; happiness was 
-just around the corner - a corner they never turned. And the source of it all was the human mind." -pg. 42
+just around the corner - a corner they never turned. And the source of it all was the human mind. (pg. 42)
