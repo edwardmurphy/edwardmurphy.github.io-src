@@ -2,11 +2,11 @@ Title: Perpetual War for Perpetual Peace by Gore Vidal
 Date: 2016-12-06
 Tags: books
 
-Status: Completed (160 pages)
+**Status:** Completed (160 pages)
 
-Recommend: Yes (especially the last chapter)
+**Recommend:** Yes (especially the last chapter)
 
-Review: This was a very quick read, and I stuck with it until the end because I knew I'd finish quickly. Otherwise, I 
+**Review:** This was a very quick read, and I stuck with it until the end because I knew I'd finish quickly. Otherwise, I 
 may have put this one down early. This is the first work by Gore Vidal I've read, so I can't state whether this piece 
 is similar in style to any other works. He's clearly a gifted vocabularist and historian, not too showy as to be 
 standoffish, which is a very difficult task. So I will give him credit for that. He seemed to repeat arguments and 

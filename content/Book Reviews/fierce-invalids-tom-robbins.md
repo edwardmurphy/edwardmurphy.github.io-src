@@ -1,9 +1,9 @@
 Title: Fierce Invalids Home From Hot Climates by Tom Robbins
 Tags: books
 
-Status: Currently Reading
+**Status:** Currently Reading
 
-Good quotes:
+**Quotes:**
 
 I want God, I want poetry,  
 I want danger, I want freedom,  

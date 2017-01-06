@@ -2,11 +2,11 @@ Title: The Family Arsenal by Paul Theroux
 Date: 2016-10-16
 Tags: books
 
-Status: Complete
+**Status:** Complete
 
-Recommend: Yes
+**Recommend:** Yes
 
-Review: Just a good story. Enough suspense to keep me reading, mixed with plenty of amazing quotes (as you can see 
+**Review:** Just a good story. Enough suspense to keep me reading, mixed with plenty of amazing quotes (as you can see 
 below) that made me either chuckle or say "daaaaaamn" frequently. The theme is class battle - really how the rich and 
 poor are similar in many respects, on the same side of the battle with the middle class. 
 
@@ -18,7 +18,7 @@ most divisive this, or a completely unexpected that; it's all been done before. 
 change from the past, or ii) enjoy the hell out of the experience nonetheless (instead of passively accepting the 
 inevitable), but let's cut the extreme talk. 
 
-Some good quotes:
+**Quotes:**
 
 An accident had brought him here; but there were no accidents - instinct was offered expression by a hollowing of chance, and impulse 
 seized it. You didn't choose, you were chosen, claimed by an impulse that knew more than wisdom did of pain. (pg. 22)

@@ -2,11 +2,11 @@ Title: The Hour I First Believed by Wally Lamb
 Date: 2016-12-05
 Tags: books
 
-Status: Completed (723 pages)
+**Status:** Completed (723 pages)
 
-Recommend: Conditionally Yes
+**Recommend:** Conditionally Yes
 
-Review: I'm a sucker for historical fictions. While the main story arc certainly takes place contemporaneously, with 
+**Review:** I'm a sucker for historical fictions. While the main story arc certainly takes place contemporaneously, with 
 heavy references to Columbine, the Iraq War, and Hurricane Katrina, this story of familial lineage (and what our 
 ancestors whom we've never met can still mean to us) takes us through major events of the 19th century. The author 
 uses fictional letters written by a teenage girl following a dinner at Mark Twain's house, as well as a scholarly 
@@ -37,7 +37,7 @@ way one of the characters tried to deal with these effects that hits home for me
 of my life is how I did not recoginize the effects of a traumatic event for someone I loved dearly, and was therefore 
 more of a hindrance to healing than a help. Trauma is real. Compassion is the answer. 
 
-Some good quotes:
+**Quotes:**
 
 Hated facing up to the fact that, whether she'd been unfaithful to me or not, if Maureen had gotten killed that icy 
 night when she totaled her Toyota, it would have been my fault because she'd left out of fear. If I'd bashed in Hay's 

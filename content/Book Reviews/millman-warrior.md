@@ -2,11 +2,11 @@ Title: Way of the Peaceful Warror by Dan Millman
 Date: 2016-11-09
 Tags: books
 
-Status: Stopped at page 50
+**Status:** Stopped at page 50
 
-Recommend: No
+**Recommend:** No
 
-Review: Although there were certainly a few gem quotes, I couldn't escape the feeling that this was just the 
+**Review:** Although there were certainly a few gem quotes, I couldn't escape the feeling that this was just the 
 re-hashing of an LSD trip. The author seems very coy about the truth of the story, which bugs me. Are you saying this 
 depth of consciousness is truly possible (flying over the Earth in your mind?) or is it a metaphor? I didn't like the 
 middle ground tease that the book presents. I'm in if the author really believes this happened (no matter how many 
@@ -14,7 +14,7 @@ drugs he had to take to get there). If it's just a metaphor, well...I have a muc
 a state of awareness. Not knowing which it was ended my journey early with this book. I just didn't want to feel like 
 a fool.
 
-Some good quotes:
+**Quotes:**
 
 Use whatever knowledge you have but see its limitations. Knowledge alone does not suffice; it has no heart. No amount 
 of knowledge will nourish or sustain your spirit; it can never bring you ultimate happiness or peace. Life requires 

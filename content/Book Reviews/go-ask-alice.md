@@ -2,11 +2,11 @@ Title: Go Ask Alice
 Date: 2016-12-28
 Tags: books	
 
-Status: Completed (188 pages)
+**Status:** Completed (188 pages)
 
-Recommend: Yes
+**Recommend:** Yes
 
-Review: A supposed diary of a teenage girl in the 1960s who gets introduced to LSD and uppers and whose life very 
+**Review:** A supposed diary of a teenage girl in the 1960s who gets introduced to LSD and uppers and whose life very 
 quickly spirals tragically downhill during the free love era. I was enchanted - I never even stopped to jot down the 
 good quotes even though there were many. I was planning to re-read the book since I enjoyed it so much, but I did a wiki search and discovered that the purported 
 diarist was likely not real and that the whole premise ("A Real Diary") is likely a sham. As I mentioned in a previous 
