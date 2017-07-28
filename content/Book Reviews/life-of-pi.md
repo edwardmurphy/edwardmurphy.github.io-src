@@ -1,6 +1,6 @@
 Title: Life of Pi by Yann Martel
 Date: 2017-07-27
-Tags: books
+Tags: books; spirituality
 
 **Status:** Completed (401 pages)
 
